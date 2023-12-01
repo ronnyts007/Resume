@@ -1,0 +1,75 @@
+.fa-mobile
+            {
+                font-size: 20px;
+                color:black;
+            }
+            .fa-envelope
+            {
+                font-size: 20px;
+                color:red;
+            }
+            .fa-location-dot
+            {
+                font-size: 20px;
+                color: blue;
+            }
+            h3
+            {
+                background:lightsalmon ;
+                color:black;
+                padding-left: 20px;
+            }
+            .name
+            {
+                background: skyblue;
+                padding-left: 30px;
+            }
+            h1
+            {
+                background: skyblue;
+                
+            }
+            .fa-linkedin
+            {
+                font-size: 30px;
+                color: blue;
+                
+            }
+            .fa-square-twitter
+            {
+                font-size: 30px;
+                color: blue;
+            }
+            .fa-github
+            {
+                font-size: 30px;
+                color: black;
+            }
+            p
+            {
+                line-height: 25px;
+            }
+            .objective
+            {
+                padding-left: 25px;
+            }
+            .EQ
+            {
+                padding-left: 30px;
+            }
+            .certification
+            {
+                padding-left:20px ;
+            }
+            .date
+            {
+                padding-left: 20px;
+            }
+            .Signature
+            {
+                padding-right: 25px;
+            }
+            .icons
+            {
+                padding-right: 30px;
+            }
